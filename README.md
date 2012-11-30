@@ -2,10 +2,17 @@
 
 PHPUnit test suite for Pancake
 
+## Dependencies
+
+- PHP
+- Pancake
+- PHPUnit
+- PEAR HTTP_Request2
+
 ## Usage
 
 - Install PancakeTest to /usr/local/PancakeTest
-- Install Pancake
+- Install Pancake anywhere
 - Delete Pancake configuration and replace with:
 
 ```
